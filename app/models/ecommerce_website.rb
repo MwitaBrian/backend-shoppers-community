@@ -1,2 +1,0 @@
-class EcommerceWebsite < ApplicationRecord
-end
