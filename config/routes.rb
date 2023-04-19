@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :ecommerce_websites
   resources :products
   resources :search_histories
   resources :users
